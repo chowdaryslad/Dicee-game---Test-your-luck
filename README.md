@@ -1,15 +1,36 @@
 # Dicee-game---Test-your-luck
 
-# Refresh the page to play the game and to roll the Dice
-
-# Player 1 Wins
-
 ![Screenshot (90)](https://user-images.githubusercontent.com/98008756/175248918-e85e0a7b-7c7e-4386-8bcc-cda0ec30af69.png)
 
-# Player 2 Wins
+## Getting Started 🎧
 
-![Screenshot (89)](https://user-images.githubusercontent.com/98008756/175248909-55ead28c-ab31-4b30-b528-f074b219e85c.png)
+This project utilized the benefits of multiple technologies such as Javascript, HTML5, CSS, and SCSS.
 
-# Draw
+It's better if we familiarize ourselves with these technologies. 
 
-![Screenshot (88)](https://user-images.githubusercontent.com/98008756/175248923-adc812ed-8c13-4be0-813f-a229aaed5527.png)
+### Prerequisites
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
+
+There is no need for any software for running the project! The editor and package manager are all at your discretion. 
+
+## Installing☔
+
+It is pretty straightforward :
+
+**Clone the repo:** 
+```
+git clone <repository Url>
+```
+
+## Deployment 💡
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
+
+**Run the application** 
+```
+Use live server extension in vs code.
+```
+
+## Acknowledgments 💖
+
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
